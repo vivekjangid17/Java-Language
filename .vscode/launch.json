@@ -1,0 +1,108 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "exception",
+      "request": "launch",
+      "mainClass": "learnjava.exception",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "interfacedemo",
+      "request": "launch",
+      "mainClass": "interfacedemo",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "threaddemo",
+      "request": "launch",
+      "mainClass": "threaddemo",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "conditional",
+      "request": "launch",
+      "mainClass": "learnjava.conditional",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "input",
+      "request": "launch",
+      "mainClass": "learnjava.input",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "color",
+      "request": "launch",
+      "mainClass": "learnjava.color",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "casting",
+      "request": "launch",
+      "mainClass": "learnjava.casting",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "learnjava.array",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "learnjava.Main",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "apanacollege.array",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "apanacollege.Main",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "type": "java",
+      "name": "main",
+      "request": "launch",
+      "mainClass": "apanacollege.main",
+      "projectName": "Java code_40103492"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Education/Desktop/Java code",
+      "program": "c:/Users/Education/Desktop/Java code/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
